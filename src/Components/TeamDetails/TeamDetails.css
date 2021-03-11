@@ -1,0 +1,30 @@
+
+.card-body img{
+    width:100%;
+    border-radius: 25px;
+    text-align: center;
+    margin-top: 15px;
+}
+.teams-body{
+    background-color: #13004d;
+}
+.team-body{
+    background-color: rgb(35, 43, 199);
+    border-radius: 25px;
+
+}
+
+.card-img{
+    width: 100%;
+    height: 200px;
+    opacity:0.3;
+}
+
+.team-logo img{
+    width: 150px;
+    height: 150px;
+}
+
+.team-logo{
+    text-align: center;
+}

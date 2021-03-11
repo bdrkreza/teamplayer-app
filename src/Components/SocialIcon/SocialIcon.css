@@ -1,0 +1,38 @@
+.Social-Icon{
+    padding: 25px;
+    text-align: center;
+}
+
+.Social-Icon a{
+margin: 20px;
+}
+
+.brand-icon{
+    width: 45px;
+    margin-bottom: 26px;
+}
+
+.brand-icon:hover{
+    transform: translateY(-2px);
+    color:tomato;
+}
+
+a.social:hover{
+    transform: translateY(-2px);
+    color:tomato;
+}
+.twitter{
+   color:#49a1eb;
+}
+.youTube{
+    color:#eb3223;
+}
+
+.facebook{
+    color:#4968ad;
+}
+
+.instagram{
+    color:#cd486b;
+}
+
